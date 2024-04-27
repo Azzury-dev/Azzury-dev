@@ -3,15 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azzury-dev" alt="azzury-dev" /></a> </p>
 
-- 🔭 I’m currently working on **MiningCrew**
+- 🔭 I’m currently working on **Devio**
 
 - 🌱 I’m currently learning **Python language**
 
-- 👯 I’m looking to collaborate on **MiningCrew**
-
 - 💬 Ask me about **my work.**
 
-- 📫 How to reach me **rodaucourt08@gmail.com**
+- 📫 Reach me on Discord **Azzury**
 
 - ⚡ Fun fact **I like french fries and you ?**
 
