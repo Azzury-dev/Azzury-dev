@@ -31,7 +31,7 @@
 
 ### 🔹 Langages
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,ts,lua,python,bash,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,sql,js,ts,lua,python,bash,html,css" />
 </p>
 
 ### 🔹 Frameworks & Librairies
@@ -41,7 +41,7 @@
 
 ### 🔹 Outils & Autres
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,figma,robloxstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,figma,robloxstudio,mysql" />
 </p>
 
 ---
