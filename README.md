@@ -1,6 +1,6 @@
 <!-- Titre centré + bannière animée -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=800&lines=Yo%2C+je+suis+Azzury+%F0%9F%91%8B;Dev+full+stack+en+%E2%9A%A1+Laravel+%2B+React;Roblox+Developer+depuis+3+ans;Toujours+en+train+de+builder+des+projets+chelous" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=800&lines=Yo%2C+je+suis+Azzury+%F0%9F%91%8B;Dev+full+stack+en+%E2%9A%A1+Laravel+%2B+React;Roblox+Developer+depuis+3+ans" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -73,11 +73,11 @@
 ## 🤝 Me contacter
 
 <p align="center">
-  <a href="https://github.com/Azzury">
+  <a href="https://github.com/Azzury-dev">
     <img src="https://img.shields.io/badge/GitHub-@Azzury-181717?style=for-the-badge&logo=github" />
   </a>
   <!-- Remplace par ton vrai Discord tag / lien -->
-  <a href="https://discord.com/">
+  <a href="https://discord.com/users/973334209093599264">
     <img src="https://img.shields.io/badge/Discord-Disponible%20pour%20des%20projets-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
@@ -85,5 +85,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:f97316,50:a855f7,100:3b82f6&text=Merci+d'être+passé+!&fontSize=28&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:f97316,50:a855f7,100:3b82f6&text=À+plus+!&fontSize=28&fontColor=ffffff&animation=twinkling" />
 </p>
