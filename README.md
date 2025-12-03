@@ -22,9 +22,8 @@
 
 - 🧑‍💻 **Développeur web & Roblox**
 - ⚙️ Stack actuelle : **Laravel 11 + Inertia + React + Tailwind + Framer Motion**
-- 🎮 3 ans à faire des systèmes ultra propres sur **Roblox Studio**
+- 🎮 3 ans à dev sur **Roblox Studio**
 - 🌍 Fan du Japon, d’anime, et de projets un peu trop ambitieux
-- 📚 Toujours en train d’apprendre et de refactor comme un malade
 
 ---
 
@@ -32,17 +31,17 @@
 
 ### 🔹 Langages
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,ts,lua,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,lua,python,bash,html,css" />
 </p>
 
 ### 🔹 Frameworks & Librairies
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,tailwind,nodejs" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,tailwind,nodejs,DiscordJS-Dark" />
 </p>
 
 ### 🔹 Outils & Autres
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,figma,robloxstudio" />
 </p>
 
 ---
