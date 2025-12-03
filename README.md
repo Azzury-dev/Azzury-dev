@@ -31,17 +31,17 @@
 
 ### 🔹 Langages
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,ts,lua,python,bash,html,css,cpp,md,json" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,lua,python,bash,html,css,cpp,md" />
 </p>
 
 ### 🔹 Frameworks & Librairies
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,tailwind,nodejs,discordjs" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,tailwind,nodejs,discordjs,vite,express" />
 </p>
 
 ### 🔹 Outils & Autres
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,figma,robloxstudio,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,figma,robloxstudio,mysql,docker,nginx,powershell,windows,blender,sqlite" />
 </p>
 
 ---
