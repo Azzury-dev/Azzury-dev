@@ -31,7 +31,7 @@
 
 ### 🔹 Langages
 <p>
-  <img src="https://skillicons.dev/icons?i=php,sql,js,ts,lua,python,bash,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,lua,python,bash,html,css,cpp,md,json" />
 </p>
 
 ### 🔹 Frameworks & Librairies
