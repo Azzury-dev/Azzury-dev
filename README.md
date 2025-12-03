@@ -7,13 +7,31 @@
 
 <!-- Badges rapides -->
 <p align="center">
-  <a href="https://github.com/Azzury">
-    <img src="https://komarev.com/ghpvc/?username=Azzury&label=Vues+du+profil&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/Azzury-dev">
+    <img src="https://komarev.com/ghpvc/?username=Azzury-dev&label=Vues+du+profil&style=for-the-badge" alt="profile views" />
   </a>
-  <a href="https://github.com/Azzury?tab=followers">
-    <img src="https://img.shields.io/github/followers/Azzury?style=for-the-badge&label=Followers&logo=github" />
+  <a href="https://github.com/Azzury-dev?tab=followers">
+    <img src="https://img.shields.io/github/followers/Azzury-dev?style=for-the-badge&label=Followers&logo=github" />
   </a>
   <img src="https://img.shields.io/badge/Dev-Laravel%20%7C%20React%20%7C%20Lua-blueviolet?style=for-the-badge" />
+</p>
+
+<!-- Nouveaux badges GitHub -->
+<p align="center">
+  <!-- Dépôts publics -->
+  <img src="https://img.shields.io/badge/Repos-Total-6a5acd?style=for-the-badge&logo=github" />
+
+  <!-- Stars reçues -->
+  <img src="https://img.shields.io/github/stars/Azzury-dev?style=for-the-badge&logo=github" />
+
+  <!-- Gists -->
+  <img src="https://img.shields.io/badge/Gists-Publics-blue?style=for-the-badge&logo=github" />
+
+  <!-- Contributions -->
+  <img src="https://img.shields.io/github/commit-activity/m/Azzury-dev?style=for-the-badge&logo=github&label=Activité%20de%20commits" />
+
+  <!-- Année en cours -->
+  <img src="https://img.shields.io/github/commit-activity/y/Azzury-dev?style=for-the-badge&logo=github&label=Commits%20cette%20année" />
 </p>
 
 ---
@@ -56,20 +74,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Azzury-dev&theme=radical&utcOffset=1" />
 </p>
 
-
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=Azzury-dev&theme=radical&hide_border=true" />
-</p>
-
 ---
 
 ## 🚀 Projets en cours
 
-- 🎰 **BloxyGold** – Casino Roblox (Crash, Mines, Blackjack, Towers, Case Battle)
-- 🌐 **linkea.dev** – Plateforme de profil / link-in-bio custom pour devs & managers
-- ⚡ **Status Azzury Studio** – Status page pro avec uptime, latence, incidents
-
-> *Si tu veux voir des repos propres avec bonne archi (services, modules, etc.), check mes derniers projets 👇*
+- 🎰 **Sophie Bluel** – Site d'une architecte d'intérieur
+- ⚡ **Azzury Studio** – My dev studio
 
 ---
 
@@ -79,7 +89,6 @@
   <a href="https://github.com/Azzury-dev">
     <img src="https://img.shields.io/badge/GitHub-@Azzury-181717?style=for-the-badge&logo=github" />
   </a>
-  <!-- Remplace par ton vrai Discord tag / lien -->
   <a href="https://discord.com/users/973334209093599264">
     <img src="https://img.shields.io/badge/Discord-Disponible%20pour%20des%20projets-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
