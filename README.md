@@ -26,12 +26,6 @@
 
   <!-- Gists -->
   <img src="https://img.shields.io/badge/Gists-Publics-blue?style=for-the-badge&logo=github" />
-
-  <!-- Contributions -->
-  <img src="https://img.shields.io/github/commit-activity/m/Azzury-dev?style=for-the-badge&logo=github&label=Activité%20de%20commits" />
-
-  <!-- Année en cours -->
-  <img src="https://img.shields.io/github/commit-activity/y/Azzury-dev?style=for-the-badge&logo=github&label=Commits%20cette%20année" />
 </p>
 
 ---
