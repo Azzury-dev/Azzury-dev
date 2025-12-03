@@ -41,7 +41,7 @@
 
 ### 🔹 Outils & Autres
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,figma,robloxstudio,mysql,docker,nginx,powershell,windows,blender,sqlite" />
+  <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,figma,robloxstudio,mysql,docker,nginx,powershell,windows,blender,sqlite,arduino,raspberrypi" />
 </p>
 
 ---
@@ -49,12 +49,12 @@
 ## 📊 Stats GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Azzury&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzury&layout=compact&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Azzury-dev&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzury-dev&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=Azzury&theme=radical&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Azzury-dev&theme=radical&hide_border=true" />
 </p>
 
 ---
