@@ -36,7 +36,7 @@
 
 ### 🔹 Frameworks & Librairies
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,tailwind,nodejs,discordjs-dark" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,tailwind,nodejs,discordjs" />
 </p>
 
 ### 🔹 Outils & Autres
