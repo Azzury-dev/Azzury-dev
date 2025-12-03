@@ -49,13 +49,13 @@
 ## 📊 Stats GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Azzury-dev&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Azzury-dev&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azzury-dev&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Azzury-dev&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Azzury-dev&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Azzury-dev&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Azzury-dev&theme=radical&utcOffset=1" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Azzury-dev&show_icons=true&theme=radical&hide_border=true" />
-</p>
 
 <p align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=Azzury-dev&theme=radical&hide_border=true" />
