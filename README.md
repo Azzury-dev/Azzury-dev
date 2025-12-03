@@ -54,6 +54,10 @@
 </p>
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Azzury-dev&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=Azzury-dev&theme=radical&hide_border=true" />
 </p>
 
