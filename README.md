@@ -30,16 +30,16 @@
 
 ---
 
-## 🧠 Who am I?
+## Who am I?
 
-- 🧑‍💻 **Web & Roblox Developer**
-- ⚙️ Current stack: **Laravel 11 + Inertia + React + Tailwind + Framer Motion**
-- 🎮 5 years developing on **Roblox Studio**
-- 🌍 Fan of Japan, anime, and slightly-too-ambitious projects
+- **Web & Roblox Developer**
+- Current stack: **Laravel 11 + Inertia + React + Tailwind + Framer Motion**
+- 5 years developing on **Roblox Studio**
+- Fan of Japan, anime, and slightly-too-ambitious projects
 
 ---
 
-## 🛠️ Tech & Tools
+## Tech & Tools
 
 ### 🔹 Languages
 <p>
@@ -58,7 +58,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azzury-dev&theme=radical" />
@@ -70,10 +70,10 @@
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
-- 🎰 **Sophie Bluel** – Interior designer's website
-- ⚡ **Azzury Studio** – My dev studio
+- **Sophie Bluel** – Interior designer's website
+- **Azzury Studio** – My dev studio
 
 ---
 
