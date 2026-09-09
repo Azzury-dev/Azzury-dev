@@ -34,7 +34,7 @@
 
 - 🧑‍💻 **Web & Roblox Developer**
 - ⚙️ Current stack: **Laravel 11 + Inertia + React + Tailwind + Framer Motion**
-- 🎮 3 years developing on **Roblox Studio**
+- 🎮 5 years developing on **Roblox Studio**
 - 🌍 Fan of Japan, anime, and slightly-too-ambitious projects
 
 ---
