@@ -28,10 +28,9 @@ I'm a developer and founder based in Switzerland, currently studying software en
 
 | Project | Description |
 |---|---|
-| **[Lodji](#)** | <!-- TODO: une ligne sur Lodji --> |
 | **LuaVault** | Protection and licensing for Luau scripts: per-execution encryption, device-bound keys, license tracing and revocation |
-| **Azzury Studio** | My dev studio — web apps and Roblox UI/systems for clients |
-| **42 Common Core** | C projects at 42 Lausanne |
+| **Azzury Studio** | My dev studio - web apps and Roblox UI/systems for clients |
+| **42 Common Core** | C and Python projects at 42 Lausanne |
 
 ---
 
@@ -75,13 +74,7 @@ I'm a developer and founder based in Switzerland, currently studying software en
 ## Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://discord.com/users/973334209093599264">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR-EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
