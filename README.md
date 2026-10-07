@@ -1,95 +1,87 @@
-<!-- Centered title + animated banner -->
+<!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=800&lines=Yo%2C+I'm+Azzury+%F0%9F%91%8B;Full+stack+dev+in+%E2%9A%A1+Laravel+%2B+React;Roblox+Developer+for+3+years" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1400&color=A855F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Azzury+%F0%9F%91%8B;CEO+%26+Founder+%40+Lodji;Software+Engineering+Student+%40+42+Lausanne;Full-stack+%C2%B7+Roblox+%C2%B7+Infra" alt="Typing SVG" />
 </p>
 
-<br/>
-
-<!-- Quick badges -->
 <p align="center">
-  <a href="https://github.com/Azzury-dev">
-    <img src="https://komarev.com/ghpvc/?username=Azzury-dev&label=Profile+views&style=for-the-badge" alt="profile views" />
-  </a>
-  <a href="https://github.com/Azzury-dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/Azzury-dev?style=for-the-badge&label=Followers&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Dev-Laravel%20%7C%20React%20%7C%20Lua-blueviolet?style=for-the-badge" />
-</p>
-
-<!-- New GitHub badges -->
-<p align="center">
-  <!-- Public repos -->
-  <img src="https://img.shields.io/badge/Repos-Total-6a5acd?style=for-the-badge&logo=github" />
-
-  <!-- Stars received -->
-  <img src="https://img.shields.io/github/stars/Azzury-dev?style=for-the-badge&logo=github" />
-
-  <!-- Gists -->
-  <img src="https://img.shields.io/badge/Gists-Public-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/42-Lausanne-000000?style=flat-square&logo=42&logoColor=white" />
+  <img src="https://img.shields.io/badge/Based%20in-Switzerland-D52B1E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-collaborations-22c55e?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Azzury-dev&label=Views&style=flat-square&color=6a5acd" />
 </p>
 
 ---
 
-## Who am I?
+## About me
 
-- **Web & Roblox Developer**
-- Current stack: **Laravel 11 + Inertia + React + Tailwind + Framer Motion**
-- 5 years developing on **Roblox Studio**
-- Fan of Japan, anime, and slightly-too-ambitious projects
+I'm a developer and founder based in Switzerland, currently studying software engineering at **42 Lausanne** while running **Lodji** as CEO.
+
+- **Founder** - building products end to end, from infrastructure to UI
+- **Full-stack** - Laravel, React, TypeScript, Tailwind
+- **Roblox** - 5+ years in Luau: game systems, scripted UI, tooling
+- **Infra** - Linux, Docker, Nginx, self-hosted services
+- **42 Lausanne** - C, Unix, algorithms, peer-to-peer learning
 
 ---
 
-## Tech & Tools
+## What I'm working on
 
-### 🔹 Languages
+| Project | Description |
+|---|---|
+| **[Lodji](#)** | <!-- TODO: une ligne sur Lodji --> |
+| **LuaVault** | Protection and licensing for Luau scripts: per-execution encryption, device-bound keys, license tracing and revocation |
+| **Azzury Studio** | My dev studio — web apps and Roblox UI/systems for clients |
+| **42 Common Core** | C projects at 42 Lausanne |
+
+---
+
+## Stack
+
+**Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,ts,lua,python,bash,html,css,cpp,md" />
+  <img src="https://skillicons.dev/icons?i=c,ts,js,php,lua,python,bash,html,css&perline=12" />
 </p>
 
-### 🔹 Frameworks & Libraries
+**Frameworks & libraries**
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,tailwind,nodejs,discordjs,vite,express" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,tailwind,nodejs,express,vite,discordjs&perline=12" />
 </p>
 
-### 🔹 Tools & Others
+**Infra & databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,figma,robloxstudio,mysql,docker,nginx,powershell,windows,blender,sqlite,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,mysql,sqlite,raspberrypi&perline=12" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,clion,figma,robloxstudio,blender,notion&perline=12" />
 </p>
 
 ---
 
-## GitHub Stats
+## GitHub activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azzury-dev&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Azzury-dev&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Azzury-dev&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Azzury-dev&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Azzury-dev&theme=radical&utcOffset=1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Azzury-dev&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzury-dev&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Azzury-dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Current Projects
-
-- **Sophie Bluel** – Interior designer's website
-- **Azzury Studio** – My dev studio
-
----
-
-## 🤝 Contact me
+## Contact
 
 <p align="center">
-  <a href="https://github.com/Azzury-dev">
-    <img src="https://img.shields.io/badge/GitHub-@Azzury-181717?style=for-the-badge&logo=github" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://discord.com/users/973334209093599264">
-    <img src="https://img.shields.io/badge/Discord-Available%20for%20projects-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:f97316,50:a855f7,100:3b82f6&text=See+you+!&fontSize=28&fontColor=ffffff&animation=twinkling" />
+  <a href="mailto:YOUR-EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
